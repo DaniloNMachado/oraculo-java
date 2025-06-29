@@ -13,5 +13,4 @@ Sistema de ferramentas web com o backend construído em Java, utilizando o frame
 - **Backend:** Java 17, Spring Boot, Maven
 - **Frontend:** HTML5, CSS3 (com Tailwind CSS), JavaScript (ES6 Modules)
 - **Banco de Dados (Planejado):** PostgreSQL
-
-Teste de commit
+.
